@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/samtoorchi-adaptivity-7vr1x3jo/",
+  "base_url": "/binder/jupyter/user/samtoorchi-adaptivity-piegbktd/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "WPonLCZiTXaIS-gmIUJWTA",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/samtoorchi-adaptivity-7vr1x3jo/"
+  "token": "XVQ3KLzvQJaI9TisQvXVyQ",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/samtoorchi-adaptivity-piegbktd/"
 }
